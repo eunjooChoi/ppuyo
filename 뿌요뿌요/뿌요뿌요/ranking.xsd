@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ranking" targetNamespace="http://tempuri.org/ranking.xsd" xmlns:mstns="http://tempuri.org/ranking.xsd" xmlns="http://tempuri.org/ranking.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ranking" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ranking" msprop:Generator_UserDSName="ranking">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ranking" msprop:Generator_TableClassName="rankingDataTable" msprop:Generator_TableVarName="tableranking" msprop:Generator_TablePropName="_ranking" msprop:Generator_RowDeletingName="rankingRowDeleting" msprop:Generator_RowChangingName="rankingRowChanging" msprop:Generator_RowEvHandlerName="rankingRowChangeEventHandler" msprop:Generator_RowDeletedName="rankingRowDeleted" msprop:Generator_UserTableName="ranking" msprop:Generator_RowChangedName="rankingRowChanged" msprop:Generator_RowEvArgName="rankingRowChangeEvent" msprop:Generator_RowClassName="rankingRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" type="xs:string" minOccurs="0" />
+              <xs:element name="score" msprop:Generator_ColumnVarNameInTable="columnscore" msprop:Generator_ColumnPropNameInRow="score" msprop:Generator_ColumnPropNameInTable="scoreColumn" msprop:Generator_UserColumnName="score" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="rankingKey1">
+      <xs:selector xpath=".//mstns:ranking" />
+      <xs:field xpath="mstns:name" />
+      <xs:field xpath="mstns:score" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

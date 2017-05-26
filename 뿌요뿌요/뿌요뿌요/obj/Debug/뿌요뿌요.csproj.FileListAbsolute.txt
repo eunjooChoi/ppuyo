@@ -1,0 +1,46 @@
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.exe.config
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.exe
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.pdb
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csprojResolveAssemblyReference.cache
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Form1.resources
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Properties.Resources.resources
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csproj.GenerateResource.Cache
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.exe
+c:\users\epcej\documents\visual studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.pdb
+C:\Users\epcej\Documents\Visual Studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.You.resources
+C:\Users\epcej\Documents\Visual Studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Ranking.resources
+C:\Users\epcej\Documents\Visual Studio 2015\Projects\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Alone.resources
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.exe.config
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.exe
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.pdb
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.exe
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.pdb
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csprojResolveAssemblyReference.cache
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Alone.resources
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Form1.resources
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Properties.Resources.resources
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Ranking.resources
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.You.resources
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csproj.GenerateResource.Cache
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\bin\Debug\ClassLibrary1.dll
+C:\Users\권석찬\Desktop\뿌요뿌요 (3)\뿌요뿌요\뿌요뿌요\bin\Debug\ClassLibrary1.pdb
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.exe.config
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.exe
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.pdb
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.exe
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\뿌요뿌요.pdb
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\ClassLibrary1.dll
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\ClassLibrary1.pdb
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csprojResolveAssemblyReference.cache
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Alone.resources
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Form1.resources
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Properties.Resources.resources
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.Ranking.resources
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.You.resources
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csproj.GenerateResource.Cache
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\Interop.WMPLib.dll
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\Interop.WMPLib.dll
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요.csproj.ResolveComReference.cache
+C:\Users\epcej\Desktop\소실팀플\뿌요뿌요-석찬오빠\뿌요뿌요\뿌요뿌요\obj\Debug\뿌요뿌요._1Por2P.resources
